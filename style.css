@@ -1,0 +1,49 @@
+h1 {
+    font-size: 20px;
+}
+
+body {
+    margin: 0;
+}
+
+.color {
+    color: crimson;
+}
+
+h2 {
+    color: purple;
+    font-weight: 1000;
+}
+
+section {
+    display: flex;
+}
+
+.bk-i {
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+.half-width {
+    padding-top: 5%;
+    padding-left: 8%;
+    width: 50%;
+}
+
+.half-width img {
+    padding-left: 50px;
+    width: 50%;
+    height: 70%;
+}
+
+.hireme {
+    color: black;
+    text-decoration: none;
+    background-color: aqua;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: 700;
+
+
+}
